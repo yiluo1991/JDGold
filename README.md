@@ -6,16 +6,14 @@
 # 如何使用
 1. 确认已安装node和npm（node安装时自带）
 2. 启动Server端
-  1.1. server/sms.js修改短信配置
-  1.1. 控制台执行如下代码
 ```
+  ## server/sms.js修改短信配置
   ## 安装依赖
   npm install
   ## 启动项目
   npm start
 ```
 1. 启动客户端
-  client中执行如下控制台代码
 ```
   ## 安装依赖
   npm install
